@@ -312,6 +312,6 @@ ALL CHANGES → Audit_Logs → Accounts
 
 **Database Documentation v1.0** | District Police Management System
 
-*Last Updated: January 2024*
+*Last Updated: September 4th*
 
 </div>
