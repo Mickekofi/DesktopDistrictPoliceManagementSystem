@@ -1,0 +1,12 @@
+-- Insert First Admin
+
+INSERT INTO accounts (account_name, username, password_hash, role, zone_id, account_status)
+VALUES (
+    'System Administrator', 
+    'admin', 
+    -- with the help of PasswordHasher.vb Form
+    'JAvlGPq9JyTdtvBO6x2llnRI1+gxwIyPqCKAn3THIKk=', 
+    'ADMIN', 
+    NULL, 
+    'ACTIVE'
+);
