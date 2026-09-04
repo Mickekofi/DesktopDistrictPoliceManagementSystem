@@ -298,42 +298,37 @@ district-police-management/
 │   │   ├── NavButtonStyles.vb    # Navigation button styling
 │   │   ├── SessionManager.vb     # User session management
 │   │   ├── ShapeUtilities.vb     # UI shape drawing helpers
-│   │   └── Models/
-│   │       ├── UserModel.vb      # Account/User model
-│   │       ├── CaseModel.vb      # Case data model
-│   │       ├── AuditLogModel.vb  # Audit log model
-│   │       └── BaseModel.vb      # Base model class
+│   │   
+│   │       
+│   │       
+│   │      
+│   │      
 │   │
 │   └── Features/
 │       ├── Authentication/
 │       │   ├── Screens/          # Login forms
-│       │   ├── Services/         # Auth logic
-│       │   ├── Models/           # Auth models
-│       │   └── Repositories/     # Data access
+│       │   
+│       │   
+│       │   
 │       │
 │       ├── Admin/
 │       │   ├── Screens/          # Admin UI forms
-│       │   ├── Services/         # Admin business logic
-│       │   ├── Models/           # Admin data models
-│       │   └── Repositories/     # Admin data access
+│       │   
+│       │   
+│       │   
 │       │
 │       ├── Inspector/
 │       │   ├── Screens/          # Inspector UI forms
-│       │   ├── Services/         # Case management logic
-│       │   ├── Models/           # Case models
-│       │   └── Repositories/     # Case data access
+│       │    
+│       │   
 │       │
 │       └── Officer/
 │           ├── Screens/          # Officer UI forms
-│           ├── Services/         # Investigation logic
-│           ├── Models/           # Investigation models
-│           └── Repositories/     # Evidence data access
+│        
+│           
+│          
 │
-├── database/
-│   ├── schema.sql               # Complete database schema
-│   ├── initial_data.sql         # Sample/test data
-│   └── migrations/
-│       └── version_updates.sql  # Schema updates
+
 │
 ├── docs/
 │   ├── README.md                # Main documentation (this file)
@@ -343,27 +338,6 @@ district-police-management/
 │   ├── DEPLOYMENT.md            # Production deployment guide
 │   └── TROUBLESHOOTING.md       # Common issues & solutions
 │
-├── resources/
-│   ├── icons/
-│   │   ├── app_icon.ico
-│   │   ├── case_icon.png
-│   │   └── zone_icon.png
-│   │
-│   ├── themes/
-│   │   ├── dark_theme.xml
-│   │   └── light_theme.xml
-│   │
-│   └── reports/
-│       ├── CaseReport.rpt
-│       └── ZoneStatistics.rpt
-│
-├── tests/
-│   ├── UnitTests/
-│   │   └── *_Tests.vb
-│   └── IntegrationTests/
-│       └── *_IntegrationTests.vb
-│
-├── App.config                   # Application configuration
 ├── DistrictPoliceManagement.sln # Solution file
 ├── LICENSE                      # MIT License
 └── README.md                    # Project overview
