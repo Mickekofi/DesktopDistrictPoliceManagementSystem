@@ -45,7 +45,7 @@ Features/
 ## PROJECT STRUCTURE
 
 ```
-district-police-management/
+DesktopDistrictPoliceManagementSystem/
 │
 ├── src/
 │   ├── Core/
@@ -96,7 +96,7 @@ Contains database setup and documentation.
 
 ```
 Core/
-├── database.txt     # Database queries and schema
+├── database.txt     # Database queries and schema (main source)
 └── doc.txt         # Database notes and documentation
 ```
 
@@ -215,18 +215,23 @@ Features/
 
 ### Database.vb
 Manages database connections and queries.
+Used by all repositories to access MySQL database.
 
 ### SessionManager.vb
 Tracks logged-in user and their role.
+Maintains session state throughout application.
 
 ### DataGridViewHelper.vb
 Provides common DataGrid formatting and display utilities.
+Used by all screens for consistent data display.
 
 ### NavButtonStyles.vb
 Applies consistent navigation button styling across screens.
+Ensures unified UI look and feel.
 
 ### ShapeUtilities.vb
 Provides UI shape drawing and styling helpers.
+Used for custom UI elements and styling.
 
 ---
 
@@ -248,10 +253,22 @@ User interacts with screens
     ↓
 Screens use Shared utilities
     ↓
-Screens interact with database
+Database.vb handles database operations
     ↓
-All changes logged to audit_logs
+All changes logged to audit_logs table
 ```
+
+---
+
+## DATABASE CONNECTION
+
+Connection string configured in **Database.vb** (src/Shared/):
+
+```vb
+connectionString="server=localhost;database=dpms_db;uid=root;password=;"
+```
+
+All database operations go through the Database.vb class to ensure consistency.
 
 ---
 
@@ -259,6 +276,8 @@ All changes logged to audit_logs
 
 **Architecture Documentation v1.0** | District Police Management System
 
-*Last Updated: September 4th*
+Developed by Michael Ubuntu Appaih | Sponsored by Simms and Group
+
+*Last Updated: September 4*
 
 </div>

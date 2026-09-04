@@ -16,6 +16,8 @@
 
 ## TABLES OVERVIEW
 
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/database_image.png)
+
 The database contains 8 core tables:
 
 1. **zones** - Geographic operational areas
@@ -26,6 +28,8 @@ The database contains 8 core tables:
 6. **investigation_updates** - Case progress updates
 7. **evidence_records** - Evidence logging
 8. **audit_logs** - Complete action audit trail
+
+**Database Name**: `dpms_db`
 
 ---
 
@@ -308,10 +312,23 @@ ALL CHANGES → Audit_Logs → Accounts
 
 ---
 
+## SCHEMA SOURCE
+
+All MySQL schema and queries are located in:
+```
+src/Core/database.txt
+```
+
+You can copy the content and rename to `.sql`, or import directly into phpMyAdmin.
+
+---
+
 <div align="center">
 
 **Database Documentation v1.0** | District Police Management System
 
-*Last Updated: September 4th*
+Developed by Michael Ubuntu Appaih | Sponsored by Simms and Group
+
+*Last Updated: September 4*
 
 </div>
