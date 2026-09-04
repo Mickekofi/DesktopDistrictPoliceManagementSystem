@@ -10,7 +10,7 @@
 
 **Transforming Law Enforcement Operations Through Digital Innovation**
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P1.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image1.png)
 
 
 [📖 Documentation](#documentation) • [🚀 Quick Start](#quick-start) • [🏗️ Architecture](./ARCHITECTURE.md) • [🗄️ Database](./DATABASE.md)
@@ -73,12 +73,12 @@ Our mission is to revolutionize district police operations by providing a **comp
 
 ## 💡 THE SOLUTION
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P8.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image8.png)
 
 
 ### What is District Police Management System?
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P3.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image3.png)
 
 
 **DPMS** is an enterprise-grade desktop application designed specifically for law enforcement agencies to manage:
@@ -117,9 +117,9 @@ Our mission is to revolutionize district police operations by providing a **comp
 
 ### 2. 👥 Role-Based Access Control
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P1.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image1.png)
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P5.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image5.png)
 
 
 ```
@@ -149,7 +149,7 @@ Our mission is to revolutionize district police operations by providing a **comp
 
 ### 3. 🔍 Evidence Management System
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P7.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image7.png)
 
 - **Digital Logging** - Every evidence item tracked from submission
 - **Chain of Custody** - Automatic timestamp & uploader verification
@@ -159,7 +159,7 @@ Our mission is to revolutionize district police operations by providing a **comp
 
 ### 4. 📊 Zone-Based Analytics
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P3.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image3.png)
 
 - **Geographic Crime Mapping** - Visualize incident density by zone
 - **Trend Analysis** - Identify crime patterns over time
@@ -177,7 +177,7 @@ Our mission is to revolutionize district police operations by providing a **comp
 
 ### 6. 📝 Comprehensive Audit Trail
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P4.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image4.png)
 
 
 
@@ -188,7 +188,7 @@ Every action recorded:
 ✓ When did it happen?
 ✓ What were old/new values?
 ```
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P7.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image7.png)
 
 
 ---
@@ -197,7 +197,7 @@ Every action recorded:
 
 ### Competitive Advantages
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/P6.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/image6.png)
 
 
 | Feature | DPMS | Manual System | Competitor A | Competitor B |
