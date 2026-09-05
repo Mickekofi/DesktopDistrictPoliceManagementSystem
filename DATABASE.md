@@ -16,7 +16,7 @@
 
 ## TABLES OVERVIEW
 
-![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/database_image.png)
+![Preview](https://github.com/Mickekofi/DesktopDistrictPoliceManagementSystem/blob/master/db_image.png)
 
 The database contains 8 core tables:
 
