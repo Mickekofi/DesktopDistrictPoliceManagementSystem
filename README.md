@@ -537,11 +537,32 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 🙏 ACKNOWLEDGMENTS
 
-**Developed by**: Michael Ubuntu Appiah  
+**Developed by**: Michael Appiah 
 **Sponsored by**: Simms and Group  
 **Special Thanks to**: All contributors and law enforcement professionals  
 
 ---
+
+
+## 🎓 Academic Origin
+
+**Project From:** University of Education, Winneba  
+**Department:** BSc. Information & Communications Technology Education (ICTE)  
+**Supervised By:** Dr. Daniel Danso Essel
+
+---
+
+## 📞 CONTACT & SUPPORT
+
+For questions or support:
+- **WhatsApp**: [Contact Engineers](https://wa.me/233597326320?text=*UCAM_From_Github_💬Message_:*%20)
+- **GitHub**: Open an issue in the repository
+
+---
+
+<div align="center">
+
+
 
 <div align="center">
 
