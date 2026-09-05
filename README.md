@@ -298,6 +298,7 @@ VALUES (
 ```
 
 **Note**: Password hash generated using PasswordHasher.vb Form
+> PasswordHasher.vb is located in `src/Core/PasswordHasher.vb`. You can use it to generate a new password hash for Admin or if you want to change the default password.
 
 ### First-Time Login
 
@@ -310,7 +311,7 @@ Role: ADMIN
 Zone: All zones visible
 ```
 
-> ⚠️ **Security**: Change default admin password immediately after first login
+
 
 ### Database Connection Troubleshooting
 
@@ -355,19 +356,9 @@ DesktopDistrictPoliceManagementSystem/
 │       └── Officer/
 │           └── Screens/          # Officer UI forms
 │
-├── database/
-│   ├── schema.sql               # Database schema (copy from src/Core/database.txt)
-│   └── sample_data.sql          # Sample data
-│
-├── docs/
-│   ├── README.md                # This file
-│   ├── DATABASE.md              # Database documentation
-│   └── ARCHITECTURE.md          # Architecture documentation
-│
-├── App.config                   # Application configuration
-├── DistrictPoliceManagement.sln # Solution file
-├── LICENSE                      # MIT License
-└── README.md                    # Project overview
+
+
+
 ```
 
 **Important**: The authoritative source for all MySQL schema and queries is:
@@ -546,7 +537,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 
 ## 🙏 ACKNOWLEDGMENTS
 
-**Developed by**: Michael Ubuntu Appaih  
+**Developed by**: Michael Ubuntu Appiah  
 **Sponsored by**: Simms and Group  
 **Special Thanks to**: All contributors and law enforcement professionals  
 
