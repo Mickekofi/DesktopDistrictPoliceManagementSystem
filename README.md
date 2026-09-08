@@ -538,7 +538,7 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 ## 🙏 ACKNOWLEDGMENTS
 
 **Developed by**: Michael Appiah 
-**Sponsored by**: Simms and Group  
+**Sponsored by**: Samantha and Group  
 **Special Thanks to**: All contributors and law enforcement professionals  
 
 ---
@@ -568,8 +568,5 @@ For questions or support:
 
 ### Made with ❤️ for Law Enforcement Excellence
 
-**District Police Management System** | Transforming Operations Through Innovation
-
-*Last Updated: September 4 | Version 1.0.0*
 
 </div>

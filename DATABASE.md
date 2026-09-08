@@ -327,7 +327,7 @@ You can copy the content and rename to `.sql`, or import directly into phpMyAdmi
 
 **Database Documentation v1.0** | District Police Management System
 
-Developed by Michael Ubuntu Appaih | Sponsored by Simms and Group
+Developed by Michael Ubuntu Appaih | Sponsored by Samantha and Group
 
 *Last Updated: September 4*
 
